@@ -5,3 +5,5 @@ M
 contracts/bounty-manager.clar,c/0/c0a35ba3cb3fb01496711aee3d3005a00b64e45f
 P
  tests/algorithm-registry.test.ts,c/2/c25f527a1e25d4364ac5cf9bece83f8563905d4d
+L
+tests/bounty-manager.test.ts,1/e/1eae0def6225db6399a0d623683b690a9ce14a0a
